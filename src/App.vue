@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+
    <form class="layui-form" action="">
     <div class="layui-form-item">
       <label class="layui-form-label">输入框</label>
@@ -13,3 +14,6 @@
 
 <style lang="scss">
 </style>
+
+
+
